@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2025-04-21T09:40:01.869Z",
+    "username": "Sujal",
+    "action": "User Registered",
+    "details": "User 'Sujal' (Sujal Kothari) registered."
+  },
+  {
+    "timestamp": "2025-04-21T09:40:12.315Z",
+    "username": "sujal",
+    "action": "Login Failed",
+    "details": "Failed login attempt for user 'sujal'."
+  },
+  {
+    "timestamp": "2025-04-21T09:40:24.205Z",
+    "username": "Sujal",
+    "action": "User Login",
+    "details": "User 'Sujal' logged in successfully."
+  },
+  {
+    "timestamp": "2025-04-21T09:40:48.642Z",
+    "username": "Sujal",
+    "action": "Bill Payment (Simulated)",
+    "details": "Simulated payment of $100 for bill ID simulated_bill_1745228448639."
+  },
+  {
+    "timestamp": "2025-04-21T09:40:54.237Z",
+    "username": "Sujal",
+    "action": "Bill Payment (Simulated)",
+    "details": "Simulated payment of $100 for bill ID simulated_bill_1745228454222."
+  },
+  {
+    "timestamp": "2025-04-21T09:41:29.082Z",
+    "username": "Sujal",
+    "action": "User Logout",
+    "details": "User 'Sujal' logged out."
+  },
+  {
+    "timestamp": "2025-04-21T09:42:08.335Z",
+    "username": "jai",
+    "action": "User Registered",
+    "details": "User 'jai' (jai m) registered."
+  },
+  {
+    "timestamp": "2025-04-21T09:42:21.919Z",
+    "username": "jai",
+    "action": "User Login",
+    "details": "User 'jai' logged in successfully."
+  },
+  {
+    "timestamp": "2025-04-21T09:42:33.312Z",
+    "username": "jai",
+    "action": "User Logout",
+    "details": "User 'jai' logged out."
+  },
+  {
+    "timestamp": "2025-04-21T09:44:01.720Z",
+    "username": "Sujal",
+    "action": "User Login",
+    "details": "User 'Sujal' logged in successfully."
+  },
+  {
+    "timestamp": "2025-04-21T09:45:55.385Z",
+    "username": "Sujal",
+    "action": "Appointment Booked",
+    "details": "Booked for 2025-04-24. Reason: Dental Checkup"
+  },
+  {
+    "timestamp": "2025-04-21T09:46:01.537Z",
+    "username": "Sujal",
+    "action": "User Logout",
+    "details": "User 'Sujal' logged out."
+  },
+  {
+    "timestamp": "2025-04-21T13:46:29.785Z",
+    "username": "Sujal",
+    "action": "User Login",
+    "details": "User 'Sujal' logged in successfully."
+  },
+  {
+    "timestamp": "2025-04-21T17:08:51.084Z",
+    "username": "Sujal",
+    "action": "User Login",
+    "details": "User 'Sujal' logged in successfully."
+  }
+]
